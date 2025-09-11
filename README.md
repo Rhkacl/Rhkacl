@@ -1,5 +1,5 @@
 <div align="center">
-# 👨‍💻 끊임없이 배우고 도전하는 엔지니어, 이민우(Lee min woo) 입니다.
+ 👨‍💻 끊임없이 배우고 도전하는 엔지니어, 이민우(Lee min woo) 입니다.
 
 디스플레이전자공학을 전공하며 **임베디드 시스템**, **FPGA**, **Verilog**, **SoC 설계** 등  
 하드웨어와 소프트웨어 모두 경험을 쌓고 있습니다.  
@@ -10,12 +10,12 @@
 
 ## 🤔 About Me
 
-- **전공** : 디스플레이전자공학
-- **주요 관심사** : 임베디드 시스템, FPGA, Verilog, SoC 설계, 디지털 회로
-- **특징** :  
-  - 임베디드·FPGA·SoC 설계를 아우르는 폭넓은 관심
-  - RTL 설계부터 임베디드 소프트웨어까지 직접 경험
-  - 한 분야에 머무르지 않고 끊임없는 성장 추구
+ **전공** : 디스플레이전자공학<br>
+ **주요 관심사** : 임베디드 시스템, FPGA, Verilog, SoC 설계, 디지털 회로<br>
+ **특징**   
+   임베디드·FPGA·SoC 설계를 아우르는 폭넓은 관심<br>
+   RTL 설계부터 임베디드 소프트웨어까지 직접 경험<br>
+   한 분야에 머무르지 않고 끊임없는 성장 추구
 
 ---
 
@@ -63,7 +63,7 @@ GitHub, Notion
 
 ## 💡 프로젝트 (Project)
 
-- [Fan](https://github.com/Rhkacl/fan_project.git)
+- [Fan](https://github.com/Rhkacl/fan_project.git)  
   → 임베디드 (Atmega128a 사용) C 기반의 선풍기 제어, 하드웨어 제작과 소프트웨어 협업 프로젝트.
 
 - [Elevator](https://github.com/parkmynggun/stm32_elevator.git)  
