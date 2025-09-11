@@ -79,8 +79,11 @@ GitHub, Notion
 
 ## 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-minwoo556@gmail.com-green?style=flat-square&logo=gmail&logoColor=white)](mailto:minwoo556@gmail.com)
-[![Email](https://img.shields.io/badge/Email-rhkaclisfish0210@naver.com-green?style=flat-square&logo=naver&logoColor=white)](mailto:rhkaclisfish0210.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:minwoo556@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:rhkaclisfish0210@naver.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://congruous-neighbor-be2.notion.site/1fb26490221380cbb005faf9ff48ebb8?pvs=74)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/min_dn_/)
+
 
 ---
 
