@@ -73,7 +73,7 @@ GitHub, Notion
   → 임베디드 (STM32 사용) C 기반의 RTOS환경 RC카 제어, 하드웨어 설계와 임베디드 소프트웨어 협업 프로젝트.  
   
 - [Parking_System](https://github.com/Rhkacl/parking_project.git)  
-  → FPGA와 Verilog를 활용한 주차 관리 시스템, 하드웨어와 소프트웨어 융합 경험.
+  → FPGA (Basys3)와 Verilog를 활용한 주차 관리 시스템, 하드웨어와 소프트웨어 융합 경험.
 
 ---
 
