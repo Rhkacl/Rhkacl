@@ -30,11 +30,10 @@ VS Code, STM32CubeIDE, Xilinx Vitis, Vivado
 ![Vivado](https://img.shields.io/badge/Vivado-FFB71B?style=flat-square&logo=xilinx&logoColor=white)
 
 **Programming / HDL**  
-C, Verilog, Python
+C, Verilog
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF4136?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 **OS / Environment**  
